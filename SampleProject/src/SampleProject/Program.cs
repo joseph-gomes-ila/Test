@@ -19,6 +19,7 @@ namespace SampleProject
                 .Build();
 
             host.Run();
+            Console.WriteLine("Hello");
         }
     }
 }

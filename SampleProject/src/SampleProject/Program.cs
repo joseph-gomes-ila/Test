@@ -20,7 +20,7 @@ namespace SampleProject
 
             host.Run();
            
-           Console.WriteLine("Simon wrote this");
+           Console.WriteLine("Simon wrote this. Simopn wrote even more");
         }
     }
 }
